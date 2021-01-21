@@ -68,7 +68,7 @@
   ],
   "education": [
     {
-      "institution": "University of Hawaii, Honolulu, HI",
+      "institution": "University of Hawaiʻi at Mānoa, Honolulu, HI",
       "area": "Computer Science - Data Science & Ethnic Studies (expected Spring, 2023)",
       "studyType": "B.S. & B.A.",
       "startDate": "2018-08-20",
@@ -122,16 +122,21 @@
   ],
   "awards": [
     {
-      "title": "B+ Scholarship",
-      "date": "2013-Present",
-      "awarder": "State of Hawaii",
-      "summary": "Scholarships awarded to incoming freshmen and continuing students who complete a rigorous high school curriculum with a minimum overall GPA of 3.0 at a Hawai'i public school."
+      "title": "B.A. in Ilokano Language & Literature Scholarship Fund",
+      "date": "2020",
+      "awarder": "University of Hawaiʻi",
+      "summary": "Scholarship awarded to student in the Ilokano Language & Literature Program and demonstrated potential of making a valuable contribution to Filipino culture and Hawaiʻi society."
+    },
+      "title": "Tria Kerkvliet Undergraduate Student Scholarship Endowment",
+      "date": "2019",
+      "awarder": "University of Hawaiʻi",
+      "summary": "Scholarship awarded to student serviced by the University of Hawaiʻi at Mānoa Office of Multicultural Serices in the Student Equity Excellence & Diversity (SEED) Office and who are pursuing a degree at the University of Hawaiʻi at Mānoa."
     },
     {
-      "title": "First place",
-      "date": "2015",
-      "awarder": "University of Hawaii Micromouse Competition",
-      "summary": "My team won first place in 2015.  See my portfolio site for more details."
+      "title": "EAAUH Scholarship",
+      "date": "2018",
+      "awarder": "Engineering Alumni Association of the University of Hawaii",
+      "summary": "Scholarship awarded to first-year incoming freshman pursuing a degree in the College of Engineerings at the University of Hawaiʻi at Mānoa."
     }
   ],
   "references": [
