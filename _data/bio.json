@@ -29,17 +29,27 @@
   },
   "interests": [
     {
-      "name": "data science",
+      "name": "Data Science",
       "keywords": [
       ]
     },
     {
-      "name": "web development",
+      "name": "Web Development",
       "keywords": [
       ]
     },
     {
-      "name": "UX design",
+      "name": "UX Design",
+      "keywords": [
+      ]
+    },
+    {
+      "name": "GIS",
+      "keywords": [
+      ]
+    },
+    {
+      "name": "Social Justice",
       "keywords": [
       ]
     }
