@@ -1,9 +1,9 @@
 ---
 layout: project
 type: project
-image: images/floramindafilm.jpg
+image: images/floraminda.jpg
 title: Floraminda
-permalink: projects/floraminda
+permalink: projects/floramindafilm
 # All dates must be YYYY-MM-DD format!
 date: 2019-11-16
 labels:
