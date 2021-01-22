@@ -12,7 +12,7 @@ labels:
 summary: Students of the Ilokano Language & Literature program in the University of Hawaiʻi at Mānoa create a film that was showcased as the first Ilokano film in Seattle's 2019 Diwa Filipino Film Festival.
 ---
 
-=<img class="ui image" src="https://diwafilmfest.files.wordpress.com/2019/05/bannuar-picture.jpg">
+<img class="ui image" src="https://diwafilmfest.files.wordpress.com/2019/05/bannuar-picture.jpg">
 
 
 Bannuar a Napaay is a fantasy film centered around Ilocandia and Ilocano culture. It is a project created by students of the Ilokano 302, 402, and 451 classes at the University of Hawaiʻi at Mānoa's Ilokano Language & Literature Program. Initially a project for the 2019 Ilokano Drama Festival, the film is now under Awan Budget Productions, a nonprofit student-led venture aiming to promote awareness for the Ilocano language and culture. The film was also showcased as the first Ilokano short film at [Diwa Filipino Film Festival](https://diwafilmfest.wordpress.com/2019/05/17/bannuar-a-napaay-fallen-heroes/) on June 1, 2019.
