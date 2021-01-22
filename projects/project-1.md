@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: https://scontent.fhnl1-1.fna.fbcdn.net/v/t1.0-9/p960x960/57395881_382060372383766_3119434171559182336_o.jpg?_nc_cat=109&ccb=2&_nc_sid=85a577&_nc_ohc=ZlkrBJNIxWIAX_x3XUO&_nc_ht=scontent.fhnl1-1.fna&tp=6&oh=f48c6880e404586b0894c390db7387bb&oe=602E8F06
+image: awanbudget.jpg
 title: Bannuar a Napaay
 permalink: projects/bannuar
 # All dates must be YYYY-MM-DD format!
