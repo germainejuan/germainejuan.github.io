@@ -3,7 +3,7 @@ layout: project
 type: project
 image: images/awanbudget.jpg
 title: Bannuar a Napaay
-permalink: projects/bannuar
+permalink: projects/bannuarfilm
 # All dates must be YYYY-MM-DD format!
 date: 2019-04-13
 labels:
