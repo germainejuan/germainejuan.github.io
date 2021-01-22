@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: awanbudget.jpg
+image: images/awanbudget.jpg
 title: Bannuar a Napaay
 permalink: projects/bannuar
 # All dates must be YYYY-MM-DD format!
