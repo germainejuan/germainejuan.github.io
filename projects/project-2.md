@@ -9,7 +9,7 @@ date: 2019-11-16
 labels:
   - Ilokano Language & Literature
   - Film
-summary: Students of the Ilokano Language & Literature program in the University of Hawaiʻi at Mānoa create a film for the Fall 2019 Ilokano Drama Festival centered around the journey to acceptance of one's cultural identity.
+summary: Students of the Ilokano Language & Literature program in the University of Hawaiʻi at Mānoa create a drama film for the Fall 2019 Ilokano Drama Festival centered around the journey to acceptance of one's cultural identity.
 ---
 
 <img class="ui image" src="../images/floraminda3.jpg">
