@@ -9,7 +9,7 @@ date: 2019-04-13
 labels:
   - Ilokano Language & Literature
   - Film
-summary: Students of the Ilokano Language & Literature program in the University of Hawaiʻi at Mānoa create a film that was showcased as the first Ilokano film in Seattle's 2019 Diwa Filipino Film Festival.
+summary: Students of the Ilokano Language & Literature program in the University of Hawaiʻi at Mānoa create a fantasy film centered around Ilocandia and Ilocano culture. It was showcased as the first Ilokano short film in Seattle's 2019 Diwa Filipino Film Festival.
 ---
 
 <img class="ui image" src="https://diwafilmfest.files.wordpress.com/2019/05/bannuar-picture.jpg">
@@ -20,6 +20,7 @@ Sypnosis: The world of Ilocandia is in great peril. The evil Marah seeks to take
 
 For this project, I was the actress for a main character, Marah, who is the villain of the story.
 
+This project was filmed in Kalihi and UH Mānoa.
 
 You can watch the trailer [here](https://vimeo.com/336738185).
 You can watch the film on [Youtube](https://www.youtube.com/watch?v=i8l8QsLf7cc).
