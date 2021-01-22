@@ -18,4 +18,6 @@ Floraminda is a drama film centered around around the journey to accepting to on
 
 For this project, I played the role of the main character, Mindy.
 
+This project was filmed in Kalihi and UH Mānoa.
+
 You can watch the trailer [here](https://www.facebook.com/awanbudgetproductions/videos/218703846160849/).
