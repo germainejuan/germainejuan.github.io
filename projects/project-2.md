@@ -1,8 +1,8 @@
 ---
 layout: project
 type: project
-image: images/floraminda.jpg
-title: Vacay
+image: images/floramindafilm.jpg
+title: Floraminda
 permalink: projects/floraminda
 # All dates must be YYYY-MM-DD format!
 date: 2019-11-16
@@ -12,13 +12,12 @@ labels:
 summary: Students of the Ilokano Language & Literature program in the University of Hawaiʻi at Mānoa create a film for the Fall 2019 Ilokano Drama Festival centered around the journey to acceptance to one's cultural identity.
 ---
 
-<div class="ui small rounded images">
-  <img class="ui image" src="../images/floraminda2.jpg">
-  <img class="ui image" src="../images/floraminda3.jpg">
-</div>
+<img class="ui image" src="../images/floraminda2.jpg">
 
 Floraminda is a drama film centered around around the journey to acceptance to one's cultural identity. It is a project created by students of the Ilokano 401 and 486 classes at the University of Hawaiʻi at Mānoa’s Ilokano Language & Literature Program for the Fall 2019 Ilokano Drama Fest. The project is also under Awan Budget Productions, a nonprofit student-led venture aiming to promote awareness for the Ilocano language and culture.
 
 For this project, I played the role of the main character, Mindy.
+
+<img class="ui image" src="../images/floraminda3.jpg">
 
 You can watch the trailer [here](https://www.facebook.com/awanbudgetproductions/videos/218703846160849/).
