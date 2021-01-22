@@ -13,7 +13,7 @@ summary: A project that sought to promote cultural appreciation and harmony, wit
 
 ---
 
-<img class="ui image" src="../images/fcclalogo1.jpg">
+<img class="ui image" src="../images/fcclalogo2.JPG">
 
 
 Project Salamat! Arigatou! Gracias! Mahalo! is a STAR Events Project under Leadership Service in Action category for Family, Career, and Community Leaders of America (FCCLA), a high school Career & Technical Student Organization focused on Family & Consumer Sciences.
