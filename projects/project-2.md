@@ -1,25 +1,24 @@
 ---
 layout: project
 type: project
-image: images/vacay-square.png
+image: images/floraminda.jpg
 title: Vacay
-permalink: projects/vacay
+permalink: projects/floraminda
 # All dates must be YYYY-MM-DD format!
-date: 2015-12-15
+date: 2019-11-16
 labels:
-  - Javascript
-  - Meteor
-  - MongoDB
-  - GitHub
-summary: A responsive web application for travel planning that my team developed in ICS 415.
+  - Ilokano Language & Literature
+  - Film
+summary: Students of the Ilokano Language & Literature program in the University of Hawaiʻi at Mānoa create a film for the Fall 2019 Ilokano Drama Festival centered around the journey to acceptance to one's cultural identity.
 ---
 
-<img class="ui medium right floated rounded image" src="../images/vacay-home-page.png">
+<div class="ui small rounded images">
+  <img class="ui image" src="../images/floraminda2.jpg">
+  <img class="ui image" src="../images/floraminda3.jpg">
+</div>
 
-Vacay is a web application that I helped create as a team project in ICS 415, Spring 2015. The project helped me learn how to design and implement a responsive web site.
+Floraminda is a drama film centered around around the journey to acceptance to one's cultural identity. It is a project created by students of the Ilokano 401 and 486 classes at the University of Hawaiʻi at Mānoa’s Ilokano Language & Literature Program for the Fall 2019 Ilokano Drama Fest. The project is also under Awan Budget Productions, a nonprofit student-led venture aiming to promote awareness for the Ilocano language and culture.
 
-Vacay is implemented using [Meteor](http://meteor.com), a JavaScript application platform. Within two weeks, we created a website that implements several types of reservations including flights, hotels, and car rentals.
+For this project, I played the role of the main character, Mindy.
 
-In this project I gained experience with full-stack web application design and associated technologies, including [MongoDB](http://mongodb.com) for database storage, the [Twitter Bootstrap](http://getbootstrap.com/) CSS Framework for the user interface, and Javascript for both client and server-side programming. 
- 
-Source: <a href="https://github.com/theVacay/vacay"><i class="large github icon"></i>theVacay/vacay</a>
+You can watch the trailer [here](https://www.facebook.com/awanbudgetproductions/videos/218703846160849/).
