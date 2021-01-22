@@ -9,7 +9,7 @@ date: 2017-07-06
 labels:
   - Community
   - Family & Consumer Sciences
-summary: A project that sought to promote cultural appreciation and harmony, with an emphasis to first-generation immigrant youth in Kalihi.
+summary: A project that sought to promote cultural appreciation and harmony, with an emphasis to first-generation immigrant youth in Kalihi. Project has received Gold Medal at both state- and national-level.
 
 ---
 
@@ -28,7 +28,7 @@ Collaborators of this project have experienced straying away from their ethnic c
   <img class="ui image" src="../images/fccla4.jpg">
 </div>
 
-Project has received Gold Medal at both state- and national-level. It was presented at the CTSO (Career and Technical Student Organizations) Conference in Honolulu on February 2017 and at the FCCLA National Leadership Conference at Nashville in July 2017.
+Project has received Gold Medal at both state- and national-level. It was presented at the CTSO (Career and Technical Student Organizations) Conference in Honolulu on February 2017 and at the FCCLA National Leadership Conference at Nashville in July 2017. Gold Medal is the highest award that a project in this category can receive.
 
 
 
