@@ -1,61 +1,29 @@
 ---
 layout: project
 type: project
-image: images/cotton-square.png
-title: Cotton
-permalink: projects/cotton
+image: images/fccla.jpg
+title: Project Salamat! Arigatou! Gracias! Mahalo!
+permalink: projects/starevents1617
 # All dates must be YYYY-MM-DD format!
-date: 2014-04-12
+date: 2017-07-06
 labels:
-  - Lisp
-  - GitHub
-summary: A text adventure game I developed for ICS 313.
+  - Community
+  - Family & Consumer Sciences
+summary: A project that sought to promote cultural appreciation and harmony, with an emphasis to first-generation immigrant youth in Kalihi.
+
 ---
+<div class="ui small rounded images">
+  <img class="ui image" src="../images/fccla1.jpg">
+  <img class="ui image" src="../images/fccla2.JPG">
+  <img class="ui image" src="../images/fccla3.JPG">
+  <img class="ui image" src="../images/fccla4.jpg">
+</div>
 
-<img class="ui image" src="{{ site.baseurl }}/images/cotton-header.png">
+Project Salamat! Arigatou! Gracias! Mahalo! is a STAR Events Project under Leadership Service in Action category for Family, Career, and Community Leaders of America (FCCLA), a high school Career & Technical Student Organization focused on Family & Consumer Sciences.
 
-Cotton is a horror-esque text-based adventure game I developed using the functions and macros built from The Wizard's Game in [Conrad Barski's Land of Lisp](http://landoflisp.com/). Slightly more interesting and convoluted! (It is not that scary.)
+Collaborators of this project have experienced straying away from their ethnic culture(s) due to pressure, especially if one has immigrated at a young age. This project sought to promote cultural appreciation and harmony, with an emphasis to first-generation immigrant students in their own neighborhood, Kalihi. It was conducted at Farrington High School, Kalakaua Middle School, and Dole Middle School in the 2016-2017 Academic Year. All collaborators were in their third year of high school when this project was conducted.
 
-To give you a flavor of the game, here is an excerpt from one run:
+Project has received Gold Medal at both state- and national-level. It was presented at the CTSO (Career and Technical Student Organizations) Conference in Honolulu on February 2017 and at the FCCLA National Leadership Conference at Nashville in July 2017.
 
-<hr>
 
-<pre>
-You open your eyes, and you are greeted by an unfamiliar ceiling.
-Startled, you get to your feet and quickly scan your surroundings. It's
-dark except for the stream of light coming from a crack on the only boarded
-window in the room. You try to peek through the crack, but you cannot see
-anything. You wonder where you are and who could have possibly brought you here.
-
-<--------------------help------------------------>
-Enter quit or one of the following commands -
-Weld light look walk pickup inventory help h ?
-<------------------------------------------------>
-
-look
-The room is a picture of decay with only a faded number identifying it as room-4. The bed you were
- lying on is stained with what looks like dried blood. Could it be your blood? No - it is not. The
- only way out of the room aside from the door to the corridor is a window that is boarded shut. It
- looks like it has been like that for decades. There is a door going west from here. You see a candle
- on the floor. You see a match on the floor.
-
-pickup candle
-- you are now carrying the candle -
-
-pickup match
-- you are now carrying the match -
-
-light match candle
-
-The candle is now lit. It illuminates everything in the room.
-
-walk west
-The corridor is lit with the candle. It is so long that you cannot see to the end. You notice that
- there are words written on the wall. There is a door going east from here. There is a way going north
- from here. There is a door going south from here.
-</pre>
-
-<hr>
-
-Source: <a href="https://github.com/jogarces/ics-313-text-game"><i class="large github icon "></i>jogarces/ics-313-text-game</a>
 
