@@ -9,7 +9,7 @@ labels:
   - Learning
 ---
 
-## Am I born for computers or were computers invented for me?
+## Am I made for computers or were computers made for me?
 
 My interest in Software Engineering stems from being a digital native. Something about computers and the Internet fascinates me. In first grade, my school offered computer classes to help us familiarize ourselves with the machine. Of course, class time was not enough time for me. My parents had to drag me home, crying, as I begged to stay in school to be able to use the computers a little bit longer. My mom promised to buy a computer instead.
 
@@ -21,7 +21,7 @@ When I was in high school, I knew I wanted to do something in technology but I f
 
 When I started my college career, the people that knew me in high school were shocked to hear that I wasn’t pursuing a degree in the humanities and instead, I was in the Computer Engineering program at UH Mānoa. I constantly found myself in a depressive state thinking that I was only doing it to please my parents, even though I knew it’s been something that I’ve wanted to do for a while. When I took EE 160, Programming for Engineers, in my second semester of freshman year, I found that I actually enjoyed coding, even if it meant having to overcome my shame in asking for help from a senior who offered me their help for free. The summer after freshman year, I realized that the Engineering program at UH Mānoa would have restricted me from exploring my many interests, which is why I entered the Information & Computer Sciences department. Majoring in Computer Science allowed me to have the time and space to pursue Ethnic Studies as my second major and minor in Ilokano, thus allowing me to flourish during my undergraduate career. Being in my second year of this program, I can say that I don't regret that decision.
 
-## Technology for the people
+## Technology for the People
 
 I like to think that Ethnic Studies is not only a subject, but also a practice. I hope that technology can be used for the greater good of the people. I’m interested in topics such as Data Science, Web Development, and GIS, because I think that some way or another, I’ll figure out a way to relate with humanities. I took a class called Digital Ethnic Studies that focuses on the topics such as digital humanities, who owns our data, racist AIs, etc., which sparked my interest. I hope that one day I get to work with materials surrounding those topics. I also am interested in creating culture-based projects like a translator for my native language Ilokano and other projects that seek to build and connect communities. 
 
