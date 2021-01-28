@@ -18,7 +18,7 @@ Bannuar a Napaay is a fantasy film centered around Ilocandia and Ilocano culture
 
 Sypnosis: The world of Ilocandia is in great peril. The evil Marah seeks to take over the land with her profound powers that will surely annihilate its culture. Hoping to preserve her land and save its culture, Kabunian, the Supreme Goddess of Ilokano, sends five magical armlets molded by her most powerful Gods to five special young Ilokanos. Will these young heroes succeed in defeating Marah or will they allow Ilocandia to fall into her power?
 
-For this project, I was the actress for a main character, Marah, who is the villain of the story.
+For this project, I was the actress for a main character, Marah, who is the villain of the story. In film projects like these, I learned that there is more work that is not on scene. There is work that is not seen like screenwriting, editing, producing, and more. Before going on set, an actor must familiarize themselves with the script and their lines. In each project, there must be preparation before doing the actual work and that the final project will not be done in an instance without collaborating with others and knowing your role in the project.
 
 This project was filmed in Kalihi and UH Mānoa.
 
