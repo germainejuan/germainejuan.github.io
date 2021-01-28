@@ -76,8 +76,19 @@
   "education": [
     {
       "institution": "University of Hawaiʻi at Mānoa, Honolulu, HI",
-      "area": "Computer Science - Data Science & Ethnic Studies, minor in Ilokano Language & Literature (expected Spring, 2023)",
-      "studyType": "B.S. & B.A.",
+      "area": "Computer Science - Data Science (expected Spring, 2023)",
+      "studyType": "B.S.",
+      "startDate": "2018-08-20",
+      "endDate": "Present",
+      "gpa": "",
+      "courses": [
+      ]
+    }
+    
+    {
+      "institution": "University of Hawaiʻi at Mānoa, Honolulu, HI",
+      "area": "Ethnic Studies, minor in Ilokano Language & Literature (expected Spring, 2023)",
+      "studyType": "B.A.",
       "startDate": "2018-08-20",
       "endDate": "Present",
       "gpa": "",
