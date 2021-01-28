@@ -20,7 +20,7 @@ Synopsis: A college student is assigned a class project that causes an uncomfort
 
 For this project, I played the role of the main character, Mindy. I also pitched in the idea of the plot. As the main character of a film, you will be the main focus. Main characters are whose story is being told and whose voices are being heard. In all types of group projects, a presentation is always given to sell the final product. There is someone who gives speeches to convince others. The representative of the project does not always have to be someone who did all of the work, but it has to be someone who is convincing to its audience. For the representative to be convincing, the work and effort of those who did the work behind the scenes must also be convincing.
 
-<img class="ui image" src="../images/floraminda3.jpg">
+<img class="ui image" src="../images/floraminda2.jpg">
 
 This project was filmed in Kalihi and UH Mānoa.
 
