@@ -3,7 +3,7 @@ layout: essay
 type: essay
 title: Javascript Newbie
 # All dates must be YYYY-MM-DD format!
-date: 2021-01-20
+date: 2021-01-21
 labels:
   - Software Engineering
   - Java
