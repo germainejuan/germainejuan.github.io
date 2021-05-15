@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: 
+image: images/meowmapper.jpg
 title: Meow Mapper
 permalink: projects/meowmapper
 # All dates must be YYYY-MM-DD format!
@@ -21,23 +21,23 @@ Once logged in, the user can access the full functionality of the application. T
 
 Spay And Neuter page basically will show more information on how to Spay and Neuter cats. Despite the fact that we love cat pictures, the end goal is to minimize the amount of stray cats on campus. The link on the page leads to Hawaiian Humane Society’s website, who will offer the services.
 
-<img class="spay-and-neuter-page" src="https://meow-mapper.github.io/Images/spay.png">
+<img class="ui image" src="https://meow-mapper.github.io/Images/spay.png">
 
 Snatch A Cat page shows a list of cats. There is an option to adopt the cat of your choice. If you choose to click the “Adopt” button, it will lead you to a form in which you can input your personal information. Only the Admin of the website is able to access the information on the Adoption listing.
 
-<img class="snatch-a-cat-admin" src="https://meow-mapper.github.io/Images/adminadoption.png">
+<img class="ui image" src="https://meow-mapper.github.io/Images/adminadoption.png">
 
 Cat Snaps page shows a database of cat photos that users of the web application has uploaded. For each image uploaded is a card that contains the image, uploader, upload date, caption, and a location in which the cat has been located. On top of the page is the Snap A Cat button, in which users can submit your own image. The website currently only accepts input for urls for the images. 
 
-<img class="cat-snaps-page" src="https://meow-mapper.github.io/Images/catsnap.png">
+<img class="ui image" src="https://meow-mapper.github.io/Images/catsnap.png">
 
 The Donations page exists to collect donations so that cats are kept healthy and fed. The page contains a button in which users can directly donate to.
 
-<img class="donations-page" src="https://meow-mapper.github.io/Images/donations.png">
+<img class="ui image" src="https://meow-mapper.github.io/Images/donations.png">
 
 The volunteer page exists so that users can personally donate their time into the project. The page consists of a button in which users can sign up to volunteer.
 
-<img class="volunteer-page" src="https://meow-mapper.github.io/Images/volunteer.png">
+<img class="ui image" src="https://meow-mapper.github.io/Images/volunteer.png">
 
 The [meteor-application-template-react](https://github.com/ics-software-engineering/meteor-application-template-react) was used as a foundation of the project and [Semantic UI](https://semantic-ui.com/) tools were also used in the project.
 
