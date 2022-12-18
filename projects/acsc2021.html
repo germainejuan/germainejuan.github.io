@@ -1,0 +1,110 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="title" content="Exploring Sentiments of the Term Filipinx on Twitter | Germaine Juan | Professional Portfolio">
+    <meta name="description" content="">
+    <meta name="image" content="https://github.com/germainejuan.png">
+    <meta property="og:type" content="website">
+    <meta property="og:site_name" content="Germaine Juan | Professional Portfolio">
+    <meta property="og:url" content="https://germainejuan.github.io/projects/acsc2021.html">
+    <meta property="og:title" content="Exploring Sentiments of the Term Filipinx on Twitter | Germaine Juan | Professional Portfolio">
+    <meta property="og:description" content="">
+    <meta property="og:image" content="https://github.com/germainejuan.png">
+    <link rel="shortcut icon" href="/favicon.ico">
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.0-beta1/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-0evHe/X+R7YkIZDRvuzKMRqM+OrBnVFBL6DOitfPri4tjfHxaWutUpFmBp4vmVor" crossorigin="anonymous">
+    <link rel="stylesheet" href="/css/techfolio-theme/default.css">
+    <link rel="stylesheet" type="text/css" href="/css/rouge/github.css">
+    <!-- Load MathJax if 'mathjax: true' is found in your _config.yml. -->
+    
+    <script type="text/javascript" async src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.7/latest.js?config=TeX-MML-AM_CHTML">
+    </script>
+    
+
+    <title>Exploring Sentiments of the Term Filipinx on Twitter | Germaine Juan | Professional Portfolio</title>
+  </head>
+  <body>
+  <header class="navbar navbar-expand navbar-light bg-light bg-gradient border-bottom">
+  <div class="container-fluid">
+    <a class="navbar-brand" href="/">Germaine Lindsay Juan</a>
+    <div class="ms-auto">
+      <ul class="navbar-nav mb-2 mb-lg-0">
+        <a class="nav-link" href="/#projects">Projects</a>
+        <a class="nav-link" href="/#essays">Essays</a>
+        <a class="nav-link" href="/resume.html">Resume</a>
+      </ul>
+    </div>
+  </div>
+</header>
+
+<div class="container py-4">
+  <h1 class="display-4">Exploring Sentiments of the Term Filipinx on Twitter</h1>
+ <p><img src="../img/acsc2021/acsc2021final.png" class="img-fluid" alt="..." /></p>
+
+<p>This project was conducted for <a href="https://www.sighpc.org/for-our-community/computing4change">Computing4Change</a> aka Advanced Computing for Social Change (C4C-ACSC) presented at <a href="https://sc21.supercomputing.org/">SC21</a>. I was mentored by Dr. Rylan Chong from Chaminade University, as well as by previous C4C contestants and Data Science majors at Chaminade University, Dairian Balai and Taylor Ishisaka.</p>
+
+<h2 id="background">Background</h2>
+
+<p><img src="../img/acsc2021/dictionaryfilipinxsept2020.jpeg" class="img-fluid" alt="..." /></p>
+
+<p>In September 2020, Dictionary.com added “Filipinx” and defined it as “of or relating to natives or inhabitants of the Philippines (used in place of the masculine form Filipino or the feminine form Filipina).” This caused an intense discourse on social media, especially on Twitter, regarding the semantics of gender and ethnic identity, creating a visible divide between homeland Filipinos and Filipinos in diaspora. People against “Filipinx” claim that “Filipino” is used in a gender-neutral context in the Philippines, while defenders of “Filipinx” say that it is for those who live or grew up outside of the Philippines whose gendered language(s) perform differently.</p>
+
+<h2 id="method">Method</h2>
+
+<p>I worked with qualitative data to conduct my research. We web scraped through the Twitter API for six days worth of publicly available data. All tweets in the dataset were published between October 28, 2021 to November 3, 2021. There were 198 tweets total. The tools that I used were Excel to clean up my data; and R to conduct my analysis and create visualizations, which were a word cloud and bar graphs for sentiment analysis.</p>
+
+<h2 id="visualizations">Visualizations</h2>
+
+<p><img src="../img/acsc2021/c4c21_wordcloud.png" class="img-fluid" alt="..." /></p>
+
+<p>I created a word cloud that visualizes the top 50 frequently used words. Through the word cloud, we can see that the most frequently used words were filipino, american, history, month, community, and now.</p>
+
+<p><img src="../img/acsc2021/c4c21_sentibargraph.png" class="img-fluid" alt="..." /></p>
+
+<p>To conduct the sentiment analysis, each word from the tweet text data were taken and assigned a “feeling” using the <a href="http://saifmohammad.com/WebPages/NRC-Emotion-Lexicon.htm">NRC emotion lexicon</a> and a bar graph was created to visualize the top sentiments from the data. The top feeling was trust, followed by anticipation, then joy.</p>
+
+<p><img src="../img/acsc2021/c4c21_sentifreq.png" class="img-fluid" alt="..." /></p>
+
+<p>I was also curious to see what were the top words that were used in each feeling in the sentiment analysis, so bar graphs for the most frequently used words for the top sentiments were created.</p>
+
+<h2 id="results">Results</h2>
+
+<p>Between October 28 to November 3, 2021, “Filipinx” had an overall positive sentiment on Twitter. Our background research shows that “Filipinx” has an overall positive or neutral use of the word in diaspora, especially in the Filipino-American community. Also, October is commemorated as Filipino-American History Month. Our visualization shows that Filipino-American History Month is often mentioned in the data, and the events associated with the celebration played a huge role in the sentiments in our data. Our top 2 sentiment in the analysis was “anticipation” which showed that there were still a lot of events going on at the end of the month.</p>
+
+<h2 id="obstacles-encountered">Obstacles Encountered</h2>
+
+<p><strong><em>These obstacles are mostly because of the timeframe that I had to work with the project. I had a little over a week for research and analysis during the Computing4Change program.</em></strong></p>
+
+<p>The data only reflects a very limited timeframe. I personally think that there was a huge bias in the data, considering the timing being situated in a month dedicated to a specific community in the Filipino diaspora, especially with the community where the term originated from. If given the chance to work with this project again, I would like to get a sample of tweets from different months of the year and analyze sentiments from each one. I would also like to look into tweets that were published in September 2020 during the intense discourses on Twitter.</p>
+
+<p>Since I had to clean the data, I got to read what each tweet contained. But if I do have to work with this project in the future, I would like to bring up the fact that the code that I worked with only takes into account the tweets that were written in English. A lot of Filipinos are multilingual and have a tendency to compose an individual post in at least two languages (typically Taglish or Tagalog-English). If there is a bigger dataset to work with, the tweets written in a non-English language will not be accounted for in the analysis, which would cause another bias.</p>
+
+<p>Emojis are also not accounted for in the analysis. Due to Twitter’s character limit (240 characters per tweet), a lot of Twitter users use emojis to fit their message in one tweet. Emojis are also used for aesthetic purposes and to catch a reader’s eye. Emojis play a huge role in delivering a message and portraying the context, but my analysis was unable to account for it.</p>
+
+<p>Lastly, there were questionable words under a certain “feeling” defined by the NRC Emotion Lexicon. For example, a Twitter user has published a tweet to define their gender identity and sexual orientation in a neutral tone, but NRC Emotion Lexicon has labeled “lesbin” under sadness, disgust, and negative. Immigrants and immigration is also celebrated during Filipino-American History Month but “immigrant” is labeled under “fear.” The NRC isn’t a good meter to detect sentiments, as they are portrayed from a white American conservative perspective that doesn’t capture the nuances of the Filipino community.</p>
+
+<p>In future work, I would like to account for the overall context of each individual tweet and not just individual words being associated with feelings.</p>
+
+<h2 id="conclusion">Conclusion</h2>
+
+<p><img src="../img/acsc2021/dictionaryfilipinxupdated.png" class="img-fluid" alt="..." /></p>
+
+<p>Since the whole world has been forced to be confined in their own homes due to the public health crisis of COVID-19, people have become increasingly online to make up for their lost social lives. The intensity of the discourses surrounding “Filipinx” in September 2020 might have been caused by a combination of factors, such as social media’s design of centering controversy, the lack of social media etiquette, and COVID-19-related stress. Since then, Dictionary.com has updated their definition of “Filipinx” to highlight that it is especially used for and by those who live in the United States. They have also added that sometimes, it is used offensively. The discourse surrounding “Filipinx” may be part of a bigger conversation surrounding social media’s impact and power in real life.</p>
+
+</div>
+
+<footer class="navbar navbar-expand navbar-light bg-light bg-gradient border-top">
+  <div class="container-fluid">
+    <div class="ms-auto">
+      <ul class="navbar-nav mb-2 mb-lg-0">
+        <small><a class="nav-link" href="https://techfolios.github.io">Made with Techfolios</a></small>
+      </ul>
+    </div>
+  </div>
+</footer>
+
+
+  <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.2.0-beta1/dist/js/bootstrap.bundle.min.js" integrity="sha384-pprn3073KE6tl6bjs2QrFaJGz5/SUsLqktiwsUTF55Jfv3qYSDhgCecCxMW52nD2" crossorigin="anonymous"></script>
+  </body>
+</html>

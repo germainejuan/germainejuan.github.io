@@ -1,0 +1,198 @@
+{
+  "basics": {
+    "name": "Germaine Lindsay Juan",
+    "label": "Student",
+    "picture": "https://github.com/germainejuan.png",
+    "email": "gjuan@hawaii.edu",
+    "phone": "",
+    "website": "https://germainejuan.github.io",
+    "summary": "I am studying for a dual B.A. in Ethnic Studies and Philippine Language & Culture - Ilokano with a minor in Computer Science at the University of Hawaiʻi at Mānoa. I expect to graduate in Spring, 2023.",
+    "location": { "address": "", "postalCode": "96819", "city": "Honolulu", "countryCode": "USA", "region": "Hawaii" },
+    "profiles": [
+      { "network": "github", "username": "germainejuan", "url": "http://github.com/germainejuan" },
+      { "network": "linkedin", "username": "germainejuan", "url": "http://linkedin.com/in/germainejuan" },
+      { "network": "twitter", "username": "germaen", "url": "http://twitter.com/germaen" }
+    ]
+  },
+  "interests": [
+    { "name": "Filipino Studies" },
+    { "name": "Asian American Studies" },
+    { "name": "Oceanic Ethnic Studies" },
+    { "name": "Digital Ethnography" },
+    { "name": "New Media Studies" },
+    { "name": "Computational Social Science" },
+    { "name": "Information Ethics" }
+  ],
+  "skills": [
+    {
+      "name": "Languages and Frameworks",
+      "keywords": [ "C", "Java", "HTML/CSS", "Javascript", "R", "Python", "MySQL" ]
+    },
+    {
+      "name": "Toolsets/OS",
+      "keywords": [ "MacOS", "Windows", "Linux", "Git/GitHub", "Eclipse IDE", "IntelliJ IDEA", "Jupyter Notebook" ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "University of Hawaiʻi at Mānoa, Honolulu, HI",
+      "area": "Ethnic Studies (expected Spring, 2023)",
+      "studyType": "B.A.",
+      "startDate": "2018-08-01",
+      "endDate": "Present",
+      "courses": [
+      ]
+    },
+    {
+      "institution": "University of Hawaiʻi at Mānoa, Honolulu, HI",
+      "area": "Philippine Language & Culture - concentration in Ilokano (expected Spring, 2023)",
+      "studyType": "B.A.",
+      "startDate": "2018-08-01",
+      "endDate": "Present",
+      "courses": [
+      ]
+    },
+    {
+      "institution": "University of Hawaiʻi at Mānoa, Honolulu, HI",
+      "area": "Computer Science (expected Spring, 2023)",
+      "studyType": "Minor",
+      "startDate": "2018-08-01",
+      "endDate": "Present",
+      "courses": [
+        "ICS 111: Introduction to Computer Science I",
+        "ICS 211: Introduction to Computer Science II",
+        "ICS 212: Program Structure",
+        "ICS 311: Algorithms",
+        "ICS 314: Software Engineering I",
+        "ICS 321: Database Systems I",
+        "ICS 438: Big Data Analytics",
+        "MATH 241: Calculus I",
+        "MATH 242: Calculus II",
+        "MATH 301: Introduction to Discrete Mathematics",
+        "MATH 372: Elementary Probability & Statistics"
+      ]
+    }
+  ],
+  "work": [
+    {
+      "company": "UH Mānoa Center for Oral History",
+      "position": "Undergraduate Research Assistant",
+      "website": "https://ethnicstudies.manoa.hawaii.edu/center-for-oral-history/",
+      "startDate": "2022-07-01",
+      "endDate": "Present",
+      "summary": "",
+      "highlights": [
+        "Digitizing and organizing archived materials at the Center for Oral History, including but not limited to printed documents and audio materials."
+      ]
+    },
+    {
+      "company": "UH Mānoa College of Natural Sciences",
+      "position": "Mānoa Peer Advisor",
+      "website": "https://natsci.manoa.hawaii.edu/sasc/",
+      "startDate": "2020-07-23",
+      "endDate": "2022-05-15",
+      "summary": "",
+      "highlights": [
+        "Assisted freshmen with staying on-track to graduate in a timely manner for their degree program by recommending courses to take in the upcoming semester and fulfilling semesterly Freshman Mandatory Advising.",
+        "Memorized the B.A. and B.S. four-year plans for the Biology, Marine Biology, Botany, and Computer Science degree programs, as provided by the university’s Program Sheets.",
+        "Supported the students with navigating university resources, interpreting public information on academic programs, and encouraging them to take advantage of resources that are available."
+      ]
+    },
+    {
+      "company": "Advanced Computing for Social Change",
+      "position": "Student Researcher",
+      "website": "https://www.sighpc.org/for-our-community/computing4change",
+      "startDate": "2021-10",
+      "endDate": "2021-11",
+      "summary": "Participated in ACM/SIGHPC and TACC's Advanced Computing for Social Change / Computing4Change at the SC21 Conference. For this program, I had to create a story for the online discourse on the term 'Filipinx' on Twitter by implementing sentiment analysis on Twitter data.",
+      "highlights": [
+        "Web scraped Twitter API for publicly available data.",
+        "Create visualizations, such as word cloud for the top 50 frequently used words and bar graphs for the sentiment analysis that associates a word with a feeling using the NRC emotion lexicon.",
+        "Develop a story for the online discourse using the analyzed Twitter data."
+      ]
+    },
+    {
+      "company": "UH Mānoa Department of Tropical Plant & Soil Sciences",
+      "position": "Data Driven Agriculture REEU Intern",
+      "website": "https://cms.ctahr.hawaii.edu/reeu/",
+      "startDate": "2021-06-07",
+      "endDate": "2021-07-30",
+      "summary": "Participated in Research Experience & Extension for Undergraduates funded by the United States Department of Agriculture to analyze leaf and root growth of eight different maize inbred lines.",
+      "highlights": [
+        "Carefully collected plant data at a consistent schedule.",
+        "Analyzed plant data through R using frameworks such as Principal Component Analysis and Support Vector Machine.",
+        "Created visualizations using the data collected to construct conclusions. Presented research at UH Mānoa’s 2021 SURE Symposium."
+      ]
+    }
+  ],
+  "volunteer": [
+    {
+      "organization": "",
+      "website": "",
+      "position": "Professional organization involvement",
+      "startDate": "",
+      "endDate": "",
+      "summary": "",
+      "highlights": [
+        "Chairperson, Anakbayan Hawaiʻi, 2022-present",
+        "Vice Chairperson, Anakbayan Hawaiʻi, 2021-2022",
+        "Secretary General, Anakbayan Hawaiʻi, 2020-2021",
+        "Founding Member, Anakbayan Hawaiʻi, 2019-Present",
+        "Vice President of Administration, Timpuyog Organization, 2020-2021",
+        "Recording Secretary, Timpuyog Organization, 2019-2020",
+        "Member, Timpuyog Organization, 2018-Present",
+        "Member, Ethnic Studies Student Association, 2018-Present",
+        "Member, Hawaii Undergraduate Initiative, 2018-Present"
+      ]
+    }
+  ],
+  "awards": [
+    {
+      "title": "Jonathan Y. Okamura Undergraduate Student Endowed Scholarship",
+      "date": "2022",
+      "awarder": "University of Hawaiʻi",
+      "summary": "This scholarship was established to support undergraduate students from Hawaiʻi with an interest in Filipino or Filipino American culture to pursue their education at the University of Hawaiʻi at Manoa."
+    },
+    {
+      "title": "TRIO SSS Summer Scholarship",
+      "date": "2022, 2021, 2020, 2019",
+      "awarder": "University of Hawaiʻi TRIO SSS",
+      "summary": "Scholarship awarded to students who participate in the TRIO SSS program. Priority is given to students who met with a TRIO SSS advisor, participated in TRIO SSS activities, and/or use SSS facilities during the 2021-2022 academic year. Priority is given to students with academic need."
+    },
+    {
+      "title": "B.A. in Ilokano Language & Literature Scholarship Fund",
+      "date": "2020",
+      "awarder": "University of Hawaiʻi",
+      "summary": "Scholarship awarded to student in the Ilokano Language & Literature Program and demonstrated potential of making a valuable contribution to Filipino culture and Hawaiʻi society."
+    },
+    {
+      "title": "Tria Kerkvliet Undergraduate Student Scholarship Endowment",
+      "date": "2019",
+      "awarder": "University of Hawaiʻi",
+      "summary": "Scholarship awarded to student serviced by the University of Hawaiʻi at Mānoa Office of Multicultural Serices in the Student Equity Excellence & Diversity (SEED) Office and who is pursuing a degree at the University of Hawaiʻi at Mānoa."
+    },
+    {
+      "title": "EAAUH Scholarship",
+      "date": "2018",
+      "awarder": "Engineering Alumni Association of the University of Hawaii",
+      "summary": "Scholarship awarded to first-year incoming freshman pursuing a degree in the College of Engineering at the University of Hawaiʻi at Mānoa."
+    },
+    {
+      "title": "Hawaii B+ Scholarhip",
+      "date": "",
+      "awarder": "University of Hawaiʻi",
+      "summary": "Hawaii B+ Scholarship is awarded to incoming students who have just graduated from a public high school in the State of Hawaii, had a high school 3.0 GPA, had a rigorous high school curriculum, and have demonstrated financial need."
+    },
+    {
+      "title": "Roland Casamina and House of Finance, Inc. Scholarship",
+      "date": "2018",
+      "awarder": "Roland Casamina and House of Finance, Inc.",
+      "summary": ""
+    }
+  ],
+  "references": [
+    {
+      "name": "Available upon request"
+    }
+  ]
+}
