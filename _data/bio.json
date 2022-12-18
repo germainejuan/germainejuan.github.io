@@ -1,12 +1,12 @@
 {
   "basics": {
-    "name": "Germaine Juan",
+    "name": "Germaine Lindsay Juan",
     "label": "Student",
     "picture": "https://github.com/germainejuan.png",
     "email": "gjuan@hawaii.edu",
     "phone": "",
     "website": "https://germainejuan.github.io",
-    "summary": "I am studying for a dual B.A. in Ethnic Studies and Philippine Language & Culture with a minor in Information & Computer Sciences at the University of Hawaiʻi at Mānoa. I expect to graduate in Spring, 2023.",
+    "summary": "I am studying for a dual B.A. in Ethnic Studies and Philippine Language & Culture - Ilokano with a minor in Computer Science at the University of Hawaiʻi at Mānoa. I expect to graduate in Spring, 2023.",
     "location": { "address": "", "postalCode": "96819", "city": "Honolulu", "countryCode": "USA", "region": "Hawaii" },
     "profiles": [
       { "network": "github", "username": "germainejuan", "url": "http://github.com/germainejuan" },
@@ -17,11 +17,10 @@
   "interests": [
     { "name": "Filipino Studies" },
     { "name": "Asian American Studies" },
-    { "name": "Diaspora" },
-    { "name": "Identity" },
-    { "name": "Social Media" },
+    { "name": "Oceanic Ethnic Studies" },
+    { "name": "Digital Ethnography" },
+    { "name": "New Media Studies" },
     { "name": "Computational Social Science" },
-    { "name": "Social Informatics" },
     { "name": "Information Ethics" }
   ],
   "skills": [
@@ -55,7 +54,7 @@
     },
     {
       "institution": "University of Hawaiʻi at Mānoa, Honolulu, HI",
-      "area": "Information & Computer Sciences (expected Spring, 2023)",
+      "area": "Computer Science (expected Spring, 2023)",
       "studyType": "Minor",
       "startDate": "2018-08-01",
       "endDate": "Present",
@@ -135,7 +134,8 @@
       "endDate": "",
       "summary": "",
       "highlights": [
-        "Vice Chairperson, Anakbayan Hawaiʻi, 2021-Present",
+        "Chairperson, Anakbayan Hawaiʻi, 2022-present",
+        "Vice Chairperson, Anakbayan Hawaiʻi, 2021-2022",
         "Secretary General, Anakbayan Hawaiʻi, 2020-2021",
         "Founding Member, Anakbayan Hawaiʻi, 2019-Present",
         "Vice President of Administration, Timpuyog Organization, 2020-2021",
